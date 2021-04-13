@@ -55,7 +55,7 @@ defmodule UeberauthAdfs.MixProject do
       {:httpoison, "~> 1.2"},
       {:joken, "~> 1.5"},
       {:mock, "~> 0.3.0", only: :test},
-      {:oauth2, "~> 0.9"},
+      {:oauth2, "~> 0.10.0"},
       {:ueberauth, "~> 0.5"},
       {:poison, "~> 3.0", optional: true}
     ]
